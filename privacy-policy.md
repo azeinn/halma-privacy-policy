@@ -24,8 +24,7 @@ saved game.
 ## Advertising
 
 The Android version uses Google Mobile Ads to display banner ads and
-occasional interstitial ads. The iOS version currently does not request or
-display ads.
+occasional interstitial ads.
 
 When ads are requested, Google and its advertising partners may collect or
 receive information from the device and ad interactions, such as device or
@@ -73,6 +72,5 @@ updated policy will be published at this page with a revised effective date.
 
 ## Contact
 
-For questions about this policy, contact the developer through the
-[Halma GitHub repository](https://github.com/azeinn/halma). Please do not
+For questions about this policy, contact the developer through azeinn@gmail.com. Please do not
 include personal or sensitive information in a public issue.
