@@ -7,7 +7,7 @@ title: Privacy Policy
 **Effective date: October 15, 2026**
 
 This policy explains how the Halma mobile game (the “App”) handles
-information. The App is published by Ahmad Games (“we,” “us,” or “our”).
+information. The App is published by Ahmad Zen (“we,” “us,” or “our”).
 
 ## Information handled by the App
 
@@ -24,7 +24,8 @@ saved game.
 ## Advertising
 
 The Android version uses Google Mobile Ads to display banner ads and
-occasional interstitial ads.
+occasional interstitial ads. The iOS version currently does not request or
+display ads.
 
 When ads are requested, Google and its advertising partners may collect or
 receive information from the device and ad interactions, such as device or
@@ -50,13 +51,22 @@ We do not sell personal information. Match data is stored locally as described
 above. Information handled by Google for advertising is subject to Google's
 retention and sharing practices described in its privacy policy.
 
+## Data retention and deletion
+
+Saved match data is kept only on your device and is removed when a match
+finishes, when it is replaced by a new match, or when you clear the App's
+local data from your device settings. Because the App does not create user
+accounts, there is no account deletion process.
+
 ## Children's privacy
 
-The App does not ask users to submit personal information. Advertising
-services may nevertheless process device information as described above. If
-you are a parent or guardian with a question about information handled by
-Google's advertising services, please consult Google's privacy policy and
-contact options.
+The App is intended for users age 13 and older. If you are under 13, please
+do not use the App. The Android version includes Google Mobile Ads, which may
+process device and advertising information as described above. Google's
+handling of information from users under 13 is subject to the applicable
+advertising settings, Google's policies, and local law. Parents and guardians
+can contact us with questions and should also review Google's privacy
+information linked above.
 
 ## Your choices
 
@@ -72,5 +82,5 @@ updated policy will be published at this page with a revised effective date.
 
 ## Contact
 
-For questions about this policy, contact the developer through azeinn@gmail.com. Please do not
-include personal or sensitive information in a public issue.
+For questions about this policy, contact the developer through the
+[support email](mailto:azeinn@gmail.com).
